@@ -5,12 +5,7 @@ const [N, ...input] = fs.readFileSync(filePath).toString().trim().split('\n');
 let result;
 
 for (let i = 0; i < N; i++) {
-  if (input[i] === input[i].split('').reverse().join('')) {
-    result = input[i];
-    break;
-  }
-
-  for (let j = i + 1; j < N; j++) {
+  for (let j = i; j < N; j++) {
     if (input[i] === input[j].split('').reverse().join('')) {
       result = input[i];
       break;
