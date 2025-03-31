@@ -1,19 +1,19 @@
-# Algorithm with JavaScript
+# Algorithm with JavaScript, Python
 
 ## 파일 및 폴더 구조
 
 ```
-ex) boj/Bronze/1000.js
-    prgms/Level 1/달리기 경주.js
+ex) JavaScript/boj/Bronze/1000.js
+    Python/prgms/Level 1/달리기 경주.py
 ```
 
 ## commit 규칙
 
-**solved/[문제 사이트]/난이도/문제 번호 or 이름**
+**solved/[문제 사이트]/난이도/문제 번호 or 이름/사용 언어**
 
 ```
-ex) solved/boj/Bronze/1000
-    solved/prgms/Level 1/달리기 경주
+ex) solved/boj/Bronze/1000/js
+    solved/prgms/Level 1/달리기 경주/py
 ```
 
 ## 알고리즘 사이트
