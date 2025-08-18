@@ -1,10 +1,10 @@
-# Algorithm with JavaScript, Python
+# Algorithm with JavaScript
 
 ## 파일 및 폴더 구조
 
 ```
 ex) JavaScript/boj/Bronze/1000.js
-    Python/prgms/Level 1/달리기 경주.py
+    JavaScript/prgms/Level 1/달리기 경주.js
 ```
 
 ## commit 규칙
@@ -13,7 +13,7 @@ ex) JavaScript/boj/Bronze/1000.js
 
 ```
 ex) solved/boj/Bronze/1000/js
-    solved/prgms/Level 1/달리기 경주/py
+    solved/prgms/Level 1/달리기 경주/js
 ```
 
 ## 알고리즘 사이트
@@ -26,4 +26,4 @@ Baekjoon Online Judge(백준)
 
 ## 알고리즘 문제 풀이
 
-[알고리즘 문제 풀이 정리](https://longing-wasp-3ad.notion.site/1871e165cdca808685cfd1cb5bc7e4cd?v=1871e165cdca801090c1000cddf902c6)
+[알고리즘 문제 풀이 정리](https://longing-wasp-3ad.notion.site/2231e165cdca8189b094e10ddcaaafe5?source=copy_link)
