@@ -23,7 +23,3 @@ Programmers (프로그래머스)
 
 Baekjoon Online Judge(백준)  
 [https://www.acmicpc.net/](https://www.acmicpc.net/)
-
-## 알고리즘 문제 풀이
-
-[알고리즘 문제 풀이 정리](https://longing-wasp-3ad.notion.site/2231e165cdca8189b094e10ddcaaafe5?source=copy_link)
